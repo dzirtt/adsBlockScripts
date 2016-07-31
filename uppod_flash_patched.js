@@ -68,6 +68,7 @@ function uppodEvent(playerID,event) {
 			break;
 
 		case 'quality':
+			console.log("it's load");
 			break;
 
 		case 'error':
